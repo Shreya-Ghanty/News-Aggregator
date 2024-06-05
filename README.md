@@ -4,4 +4,5 @@
 >>U can use and customize it by yourself
 
 
-##### If u like this,  Give a star to this repo :-)
+##### If u like this,  Give a star to this repo :-) 
+project built in DJANGO FRAMEWORK
